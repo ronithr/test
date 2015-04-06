@@ -5,10 +5,10 @@
         id        = "com.phonegap.hello-world"
         version   = "1.0.0">
 
-  <name>Asset-Track</name>
+  <name>Test</name>
 
   <description>
-    Asset-Track Application
+    Test
   </description>
 
   <author href="http://phonegap.com" email="support@phonegap.com">
